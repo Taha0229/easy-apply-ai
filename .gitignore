@@ -1,0 +1,69 @@
+# Byte-compiled files
+*.py[cod]
+__pycache__/
+*.pyo
+
+# Environment variables
+.env
+*.env
+
+# Virtual environments
+venv/
+env/
+.venv/
+.venv/
+easy-apply-ai
+easy-apply-ai/
+
+
+
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+*.cover
+*.py,cover
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# FastAPI static and generated files
+static/
+media/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# pipenv
+Pipfile
+Pipfile.lock
+
+# poetry
+poetry.lock
+
+# mypy
+.mypy_cache/
+
+# Other caches
+.cache/
+
+
